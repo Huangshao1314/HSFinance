@@ -11,7 +11,7 @@
 ### 安装
 
 ```shell
-git clone https://github.com/cucygh/JDFinance.git
+git clone https://github.com/Huangshao1314/JDFinance.git
 cd JDFinance
 npm install
 ```
